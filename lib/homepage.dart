@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'employee.dart';
 import 'employeeBloc.dart';
 
-//
+// HEY, THIS IS A COMMENT
 class Homepage extends StatefulWidget {
   @override
   _HomepageState createState() => _HomepageState();
